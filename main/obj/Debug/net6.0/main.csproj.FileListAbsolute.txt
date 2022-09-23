@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\chsarp_vscode\main\bin\Debug\net6.0\main.exe
+E:\Desktop\Software_Lang\chsarp_vscode\main\bin\Debug\net6.0\main.deps.json
+E:\Desktop\Software_Lang\chsarp_vscode\main\bin\Debug\net6.0\main.runtimeconfig.json
+E:\Desktop\Software_Lang\chsarp_vscode\main\bin\Debug\net6.0\main.dll
+E:\Desktop\Software_Lang\chsarp_vscode\main\bin\Debug\net6.0\main.pdb
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\main.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\main.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\main.AssemblyInfo.cs
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\main.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\main.dll
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\refint\main.dll
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\main.pdb
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\main.genruntimeconfig.cache
+E:\Desktop\Software_Lang\chsarp_vscode\main\obj\Debug\net6.0\ref\main.dll
